@@ -1,0 +1,9 @@
+{
+    "apiUrl" : "https://cinemart.uk/api/",
+
+	"pushUpdate" : "off",
+
+	"newPackage" : "",
+	"NetworkAds" : "applovin"
+
+}
